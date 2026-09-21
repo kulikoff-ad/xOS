@@ -1,0 +1,4 @@
+# Generated build products
+*.o
+build/isowork/
+build/*.iso
